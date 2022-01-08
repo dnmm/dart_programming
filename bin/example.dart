@@ -1,8 +1,6 @@
-void main() {
-  print("Enter your name?");
-  // Reading name of the Geek
-  String? name = stdin.readLineSync();
+import 'dart:io';
 
-  // Printing the name
-  print("Hello, $name! \nWelcome to GeeksforGeeks!!");
+void main() {
+  var name = "sonam";
+  print(name is int);
 }
