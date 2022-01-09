@@ -1,13 +1,16 @@
 import 'dart:ffi';
 
 void main() {
-  var a = 'ram';
+  var a = true;
+
   // ignore: unnecessary_type_check
   print(a is bool);
   // ignore: unnecessary_type_check
+  print(a is! bool);
+
   print(a is int);
-  // ignore: unnecessary_type_check
+
   print(a is String);
-  // ignore: unnecessary_type_check
+
   print(a is Float);
 }
