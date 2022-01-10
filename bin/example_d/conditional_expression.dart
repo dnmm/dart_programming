@@ -5,6 +5,6 @@ void main() {
   // var user = isLogin ? "Sonam" : "Guest";
   // print(user);
   var name = 'soname';
-  var user = name ?? 'Guest';
+  var user = name;
   print(user);
 }
