@@ -4,4 +4,7 @@ void main() {
   var c = 200;
   var d = 200;
   print((a == b) && (c == d));
+  print((a != b) && (c == d));
+  print((a == b) || (c == d));
+  print((a == b) || (c != d));
 }

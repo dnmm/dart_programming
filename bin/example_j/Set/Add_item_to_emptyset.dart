@@ -1,0 +1,12 @@
+void main() {
+  var p = <String>{};
+  p.add("JavaScript");
+  p.add("Dart");
+  print(p);
+  print(p.runtimeType);
+
+  // ## No Duplicate value will be considered
+  var x = {1,2,3,1,2,1};
+  print(x);
+  print(x.runtimeType);
+}
