@@ -1,5 +1,9 @@
 void main() {
-  var st1 = {'Sonam', 'Rahul', 'Sumit'};
+  var st1 = {
+    'Sonam',
+    'Rahul',
+    'Sumit',
+  };
   print(st1);
   print(st1.runtimeType);
 
