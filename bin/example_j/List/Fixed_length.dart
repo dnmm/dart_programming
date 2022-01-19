@@ -2,14 +2,15 @@
 import 'dart:collection';
 
 void main() {
-  List<String> lst = new List.empty();
-  /*var lst = new List(3);
-  lst[0] = "Sonam";
-  lst[1] = "Jay";
-  lst[2] = 100;
+  var lst = new List.filled(3, 0);
+  lst[0] = 100;
+  lst[1] = 200;
+  lst[2] = 300;
   print(lst[0]);
   print(lst[1]);
   print(lst[2]);
-  print(lst.runtimeType);*/
-  print(lst);
+  print(lst.runtimeType);
+
+  List<String> lst1 = new List.empty();
+  print(lst1);
 }
