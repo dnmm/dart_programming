@@ -40,4 +40,16 @@ void main() {
   var lst3 = <int>[1, 2, 3, 4];
   print(lst3);
   print(lst3.runtimeType);
+  /*[Sonam, 20, Sumit]
+  Sonam
+  20
+  Sumit
+  List<Object>
+  [1, 2, 3, 4, 5]
+  List<int>
+  [1, 2, 3, 4, Hello]
+  List<Object>
+  [1, 2, 3, 4]
+  List<int>
+  */
 }
