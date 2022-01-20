@@ -9,3 +9,8 @@ void main() {
   print(l_name);
   print($money);
 }
+/* Output:
+Jinal
+Shah
+100
+*/

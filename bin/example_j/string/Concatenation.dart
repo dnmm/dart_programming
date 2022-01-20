@@ -10,3 +10,12 @@ void main() {
   print(s1 + ' ' + s2);
   print(s1 + ' My Name is ' + s2);
 }
+/* Output:
+Hello Dart
+HelloSonam
+Hello Sonam
+Hello Sonam
+HelloSumit
+Hello Sumit
+Hello My Name is Sumit
+*/

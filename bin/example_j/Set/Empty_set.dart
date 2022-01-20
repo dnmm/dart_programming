@@ -2,7 +2,7 @@ void main() {
   var st1 = <int>{};
   print(st1);
   print(st1.runtimeType);
- 
+
   var st2 = {}; //Its Map not set
   print(st2);
   print(st2.runtimeType);
@@ -14,5 +14,14 @@ void main() {
   Set<String> st4 = {};
   print(st4);
   print(st4.runtimeType);
-
 }
+/* Output:
+{}
+_CompactLinkedHashSet<int>
+{}
+_InternalLinkedHashMap<dynamic, dynamic>
+{}
+_CompactLinkedHashSet<String>
+{}
+_CompactLinkedHashSet<String>
+*/

@@ -18,3 +18,13 @@ void main() {
     print("Data Fetching...");
   }*/
 }
+/* Output:
+Number 1
+Number 2
+Number 3
+Number 4
+Number 5
+Sonam
+Rahul
+Sumit
+*/

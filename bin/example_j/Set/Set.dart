@@ -14,5 +14,13 @@ void main() {
   Set<String> str4 = {'Sonam', 'Rahul', 'Sumit'};
   print(str4);
   print(str4.runtimeType);
-
 }
+/*Output:
+{Sonam, Rahul, Sumit}
+_CompactLinkedHashSet<String>
+{1, 2, Sonam, Rahul, Sumit}
+_CompactLinkedHashSet<Object>
+{Sonam, Rahul, Sumit}
+_CompactLinkedHashSet<String>
+{Sonam, Rahul, Sumit}
+_CompactLinkedHashSet<String>*/

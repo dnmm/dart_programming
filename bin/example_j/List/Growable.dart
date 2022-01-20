@@ -18,3 +18,11 @@ void main() {
   print(lst3);
   print(lst3.runtimeType);
 }
+/* Output:
+[1, 2, 3, 4, 5]
+List<int>
+[1, 2, 3, 4, Hello]
+List<Object>
+[1, 2, 3, 4, 5]
+List<int>
+*/

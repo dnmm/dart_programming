@@ -4,3 +4,8 @@ void main() {
   print(address['name']);
   print(address.runtimeType);
 }
+/* Output:
+{name: Sonam, city: Ranchi, state: Jharkahnd}
+Sonam
+_InternalLinkedHashMap<String, String>
+*/

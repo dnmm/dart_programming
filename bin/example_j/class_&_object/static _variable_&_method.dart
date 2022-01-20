@@ -18,3 +18,7 @@ class Mobile {
     return memory;
   }
 }
+/*Output:
+12
+12
+*/

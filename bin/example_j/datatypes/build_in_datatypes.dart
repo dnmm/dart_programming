@@ -14,3 +14,9 @@ void main() {
   bool is_completed = true;
   print(is_completed);
 }
+/* Output:
+10
+10.5
+Ranchi
+true
+*/

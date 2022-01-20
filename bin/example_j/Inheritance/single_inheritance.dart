@@ -20,3 +20,6 @@ class Son extends Father {
     print(money);
   }
 }
+/*Output:
+i 10
+1000*/

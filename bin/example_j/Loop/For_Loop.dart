@@ -4,3 +4,7 @@ void main() {
     print(student[i]);
   }
 }
+/*Output:
+Sonam
+Rahul
+Sumit*/

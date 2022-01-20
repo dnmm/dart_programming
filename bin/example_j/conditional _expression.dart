@@ -4,3 +4,6 @@ void main() {
   var user = is_login ? 'Jinal' : 'Guest';
   print(user);
 }
+/* Output:
+Guest
+*/

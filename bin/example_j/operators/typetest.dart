@@ -8,3 +8,8 @@ void main() {
   // ignore: unnecessary_type_check
   print(number is! int);
 }
+/* Output:
+true
+true
+false
+*/

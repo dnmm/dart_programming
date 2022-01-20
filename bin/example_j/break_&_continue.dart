@@ -12,3 +12,13 @@ void main() {
     print("Data Fetching....$n");
   }
 }
+/* Output:
+Data Fetching....1
+Data Fetching....2
+Data Fetching....3
+Data Fetching....4
+Data Fetching....6
+Data Fetching....7
+Data Fetching....8
+Data Fetching....9
+*/

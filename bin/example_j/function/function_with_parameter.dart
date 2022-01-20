@@ -49,3 +49,11 @@ void main() {
 
   addfun2("Sonam", b: 10, a: 20);
 }
+/*Output:
+30
+I am Sonam
+I am Sonam from Dhanbad
+A = 20
+B = 10
+X = Sonam
+*/

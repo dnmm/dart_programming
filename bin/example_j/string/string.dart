@@ -36,3 +36,8 @@ Multiline
 String""";
   print(mstr);
 }
+/* Output:
+This is
+Multiline
+String
+*/

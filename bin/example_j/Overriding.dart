@@ -27,3 +27,7 @@ class Son extends Father {
     print('A = $a and B = $b');
   }
 }
+/*Output:
+I am Sub class
+A = 10 and B = 20
+*/

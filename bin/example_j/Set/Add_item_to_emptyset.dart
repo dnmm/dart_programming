@@ -12,3 +12,9 @@ void main() {
   print(x);
   print(x.runtimeType);
 }
+/* Output:
+{JavaScript, Dart}
+_CompactLinkedHashSet<String>
+{1, 2, 3}
+_CompactLinkedHashSet<int>
+*/

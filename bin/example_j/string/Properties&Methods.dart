@@ -18,3 +18,8 @@ void main() {
   /*var str2 = 'Hello&Dart';
   print(str2.split('&'));*/
 }
+/* Output:
+Hello 
+  lksm
+  mzndkn
+*/

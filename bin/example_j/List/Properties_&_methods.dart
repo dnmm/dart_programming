@@ -16,3 +16,7 @@ void main() {
   student.removeLast();
   print(student);
 }
+/* Output:
+[Sonam, Jay, Rahul]
+[Sonam]
+*/

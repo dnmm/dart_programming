@@ -16,3 +16,6 @@ class Student extends Teacher {
     print("I will Follow official Doc");
   }
 }
+/* Output:
+I will Follow official Doc
+*/

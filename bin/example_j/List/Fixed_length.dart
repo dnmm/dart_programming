@@ -14,3 +14,9 @@ void main() {
   List<String> lst1 = new List.empty();
   print(lst1);
 }
+/*Output:
+100
+200
+300
+List<int>
+[]*/

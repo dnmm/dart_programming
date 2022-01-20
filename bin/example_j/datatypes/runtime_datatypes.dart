@@ -8,3 +8,9 @@ void main() {
   print(product);
   print(product.runtimeType);
 }
+/* Output:
+100.5
+double
+Mobile
+String
+*/

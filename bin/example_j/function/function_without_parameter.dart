@@ -14,3 +14,7 @@ void main() {
   var total = addfun();
   print(total);
 }
+/*Output:
+Hello Dart
+30
+*/
