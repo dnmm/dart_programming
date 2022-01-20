@@ -12,3 +12,7 @@ class darttest {
     print("hello programmer");
   }
 }
+/* Output:
+this is constructor message
+hello programmer
+*/

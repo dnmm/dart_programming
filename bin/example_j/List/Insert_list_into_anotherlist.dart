@@ -7,3 +7,7 @@ void main() {
   var pepole = ["Gabbar", ...women, ...men];
   print(pepole);
 }
+/* Output:
+[Gabbar, Rahul, Sumit]
+[Gabbar, Sonam, Rani, Shweta, Rahul, Sumit]
+*/

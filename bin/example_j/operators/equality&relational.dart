@@ -8,3 +8,11 @@ void main() {
   print(a >= b);
   print(a <= b);
 }
+/* Output:
+false
+true
+false
+true
+false
+true
+*/

@@ -4,3 +4,8 @@ void main() {
     print(value);
   });
 }
+/* Output:
+Sonam
+Rahul
+Sumit
+*/

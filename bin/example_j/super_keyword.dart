@@ -22,3 +22,8 @@ class Son extends Father {
     super.disp();
   }
 }
+/*Output:
+I am Sub class
+2000
+1000
+I am Super class*/

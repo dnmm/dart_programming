@@ -5,3 +5,6 @@ void main() {
   //n *= 5;
   print(n);
 }
+/* Output:
+15
+*/

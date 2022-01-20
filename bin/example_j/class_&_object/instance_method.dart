@@ -21,3 +21,8 @@ class Mobile {
     print(model);
   }
 }
+/* Output:
+A 100
+L 200
+4
+*/

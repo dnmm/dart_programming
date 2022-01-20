@@ -30,3 +30,8 @@ class GrandSon extends Son {
     print(totalMoney());
   }
 }
+
+/*Output:
+K6
+i 10
+6000*/

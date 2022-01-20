@@ -6,3 +6,10 @@ void main() {
   print(students[2]);
   print(students.runtimeType);
 }
+/* Output:
+[Sonam, Jay, Sumit]
+Sonam
+Jay
+Sumit
+List<String>
+*/

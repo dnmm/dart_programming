@@ -25,3 +25,8 @@ void main() {
   print(--i);
   print(i);
 }
+/* Output:
+3
+2
+2
+*/

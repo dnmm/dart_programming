@@ -7,3 +7,11 @@ void main() {
     print(value);
   }
 }
+/* Output:
+name
+city
+state
+Sonam
+Ranchi
+Jharkhand
+*/

@@ -7,3 +7,7 @@ void main() {
   print((a == b) && (c == d));
   print((a == b) || (c == d));
 }
+/* Output:
+false
+true
+*/

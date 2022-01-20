@@ -11,3 +11,8 @@ void main() {
 
   print(sqrt(49));
 }
+/* Output:
+Black Class from Black File
+Green Class from Green File
+7.0
+*/

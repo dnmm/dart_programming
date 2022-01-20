@@ -10,3 +10,12 @@ void main() {
   print(address.containsKey('name'));
   print(address.containsValue('Rahul'));
 }
+/* Output:
+3
+false
+true
+(name, city, state)
+(Sonam, Ranchi, Jharkahnd)
+true
+false
+*/

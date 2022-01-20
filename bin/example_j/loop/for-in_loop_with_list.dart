@@ -4,3 +4,8 @@ void main() {
     print(stu);
   }
 }
+/* Output:
+Sonam
+Rahul
+Sumit
+*/

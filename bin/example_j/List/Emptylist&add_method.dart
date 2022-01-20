@@ -11,3 +11,9 @@ void main() {
   print(employee);
   print(employee.runtimeType);
 }
+/* Output:
+[]
+List<dynamic>
+[Sonam, Rahul]
+List<dynamic>
+*/

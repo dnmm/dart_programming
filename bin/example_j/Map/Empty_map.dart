@@ -1,9 +1,9 @@
-void main(){
-  var address= Map();
+void main() {
+  var address = Map();
   print(address);
   print(address.runtimeType);
 
-  Map<String, String> address1= Map();
+  Map<String, String> address1 = Map();
   print(address1);
   print(address1.runtimeType);
 
@@ -11,3 +11,11 @@ void main(){
   print(address2);
   print(address2.runtimeType);
 }
+/* Output:
+{}
+_InternalLinkedHashMap<dynamic, dynamic>
+{}
+_InternalLinkedHashMap<String, String>
+{}
+_InternalLinkedHashMap<dynamic, dynamic>
+*/

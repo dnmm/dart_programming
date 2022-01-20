@@ -9,3 +9,7 @@ void main() {
     print('Value of a is $a');
   }
 }
+/* Output:
+Welcome Sonam
+Value of a is 10
+*/

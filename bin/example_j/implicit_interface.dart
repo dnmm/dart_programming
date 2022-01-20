@@ -25,3 +25,6 @@ class Daughter implements Father, Mother {
     print('I am Daughter Class 2');
   }
 }
+/* Output:
+100
+200*/

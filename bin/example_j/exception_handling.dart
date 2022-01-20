@@ -25,3 +25,9 @@ void main() {
     print('Finally Always Executes');
   }
 }
+/* Output:
+Can not Divide by zero
+IntegerDivisionByZeroException
+IntegerDivisionByZeroException
+Finally Always Executes
+*/
