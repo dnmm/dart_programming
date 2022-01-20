@@ -14,4 +14,9 @@ void main() {
   Set<String> st9 = {};
   print(st9);
   print(st9.runtimeType);
+  Set ten = {};
+  print(ten);
+  ten.add("ram");
+  ten.add(10);
+  print(ten);
 }

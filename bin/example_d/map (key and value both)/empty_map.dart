@@ -2,6 +2,7 @@ void main() {
   // Map() Constructor
   var address = Map();
   print(address);
+
   print(address.runtimeType);
 
   Map<String, String> address1 = Map();

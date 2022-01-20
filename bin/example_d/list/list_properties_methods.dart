@@ -7,6 +7,7 @@ void main() {
   print(student.reversed);
   print(student.first);
   print(student.last);
+  print(student.contains('Rahul'));
 
   student.remove('Sonam');
   print(student);
