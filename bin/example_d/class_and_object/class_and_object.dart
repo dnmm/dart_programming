@@ -24,7 +24,8 @@ class Mobile {
     model = md;
     print(model);
   }
-// Static Variable
+
+// Static Variable when we make use static keyword
   static int memory = 12;
 // Static Method
   static addExtraMemory(extra) {

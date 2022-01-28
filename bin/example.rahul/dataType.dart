@@ -7,13 +7,12 @@
 // Maps           Map                     It represents a set of values as key-value pairs
 
 void main() {
-  var a = 1.1;
-  print(a is double);
+  // var a = 1.1;
+//print(a is double);
 
   // var name = "Hi";
   // print(name.runtimeType);
-  
+
   var name = 1;
   print(name.runtimeType);
-
 }
