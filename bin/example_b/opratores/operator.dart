@@ -5,7 +5,9 @@ void main() {
   var c = 50;
   var d = 3;
 
-  print(a + b);
+  print(a + b +c); 
+
+
   print(c - a);
   print(a * b);
   print(a / d);
