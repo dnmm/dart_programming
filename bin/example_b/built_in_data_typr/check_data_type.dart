@@ -5,7 +5,7 @@ void main(List<String> arguments) {
   bool is_completed = true;
   bool is_login = false;
   var quantity = 100;
-  var cost = 100.50;
+  var cost1 = 100.50;
   var gender = "Male";
   var is_full = true;
   print(cart_item.runtimeType);
@@ -14,7 +14,7 @@ void main(List<String> arguments) {
   print(is_completed.runtimeType);
   print(is_login.runtimeType);
   print(quantity.runtimeType);
-  print(cost.runtimeType);
+  print(cost1.runtimeType);
   print(gender.runtimeType);
   print(is_full.runtimeType);
 }
