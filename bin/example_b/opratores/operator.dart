@@ -6,7 +6,7 @@ void main() {
   var d = 3;
 
   print(a + b +c); 
-
+  print(a+b-d);
 
   print(c - a);
   print(a * b);

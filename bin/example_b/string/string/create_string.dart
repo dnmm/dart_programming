@@ -20,6 +20,7 @@ void main() {
   var s2 = "It's a Language";
   print(s2);
 
+// for multiline string we can use '''a''' and"""a""".
   var mstr2 = '''This is
 Multiline
 String ''';
@@ -28,4 +29,6 @@ String ''';
 Multiline
 String """;
   print(mstr1);
-}
+ var mstr3 ='''i am Babita maurya''';
+  print(mstr3);
+  }

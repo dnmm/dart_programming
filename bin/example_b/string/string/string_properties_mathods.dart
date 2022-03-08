@@ -11,8 +11,10 @@ void main() {
   var str1 = ' Hello ';
   print(str1);
   print(str1.trim());
-  print(str1.trimLeft());
   print(str1.trimRight());
+  var str3 = '        good  ';
+  print(str3);
+  print(str3.trimLeft());
   var str2 = 'Hello&Dart';
   print(str2.split('&'));
 }

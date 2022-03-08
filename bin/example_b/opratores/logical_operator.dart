@@ -6,5 +6,6 @@ void main() {
   print((a == b) && (c == d));
   print((a != b) && (c == d));
   print((a == b) || (c == d));
-  print((a == b) || (c != d));
+  print((a == b) || (c != d) || (a == c));
+  print((a == b) && (c == d) && (a != c));
 }

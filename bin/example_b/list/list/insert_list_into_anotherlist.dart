@@ -7,4 +7,6 @@ void main() {
   print(gabbarwithmen);
   var people = ["Gabbar", ...women, ...men];
   print(people);
+  var student = [...men,...women];
+  print(student);
 }

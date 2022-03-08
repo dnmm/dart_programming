@@ -1,18 +1,20 @@
-void main(List<String> arguments) {
-  int cart_item = 10;
-  print(cart_item);
+void main() {
+  int No_of_student= 10;
+  print(No_of_student);
 
-  double price = 10.50;
-  print(price);
+  double weight = 10.50;
+  print(weight);
 
-  String city = "Ranchi";
-  print(city);
+  String Name = "Babita Maurya";
+  print(Name);
 
   bool is_completed = true;
   print(is_completed);
 
   bool is_login = false;
   print(is_login);
+
+//var is can be use for any type of data
 
   var quantity = 100;
   print(quantity);
