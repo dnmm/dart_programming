@@ -1,14 +1,15 @@
-void main(){
+void main() {
   //var result = 4 ~/ 0;
   // print(result);
 
   // ## try on
-   try{
-     var result = 4 ~/ 0;
-     print(result);
-   } on 
-   IntegerDivisionByZeroException {
-     print('Can not Divide by Zero');
+  try {
+    var result = 4 ~/ 0;
+    print(result);
+  } on
+  // ignore: deprecated_member_use
+  IntegerDivisionByZeroException {
+    print('Can not Divide by Zero');
   }
   // ## try catch
   // try {
@@ -18,7 +19,7 @@ void main(){
   //     print(e);
   //   }
   //}
-    // ## try on catch
+  // ## try on catch
   //   try {
   //     var result = 4 ~/ 0;
   //     print(result);
@@ -41,5 +42,3 @@ void main(){
 // }
 //}
 }
-
-
