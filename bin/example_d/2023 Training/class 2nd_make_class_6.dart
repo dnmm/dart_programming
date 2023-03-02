@@ -22,57 +22,16 @@ childcompany extend parentcompany()
 { method1 { with body}
 method 2 automatic gear () { with body}
 }
-
-Example
-
-abstract class Shape{
-
-void area();
-void typeOfShape();
-
-}
-
-class Circle extends Shape{
-
-@override
-void area(){
-
-print("area of circle is 10");
-}
-
-@override
-void typeOfShape(){
-
-print("the type of shape is circle");
-}
-
-}
-
-void main()
-{
-Circle c = new Circle();
-c.area();
-c.typeOfShape();
-
-
-}
 */
+
+//Example
 
 abstract class Shape {
   void area();
   void typeOfShape();
-
-  void printShape() {
-    print("this is shape method");
-  }
 }
 
 class Circle extends Shape {
-  @override
-  void printShape() {
-    print("this is circle shape");
-  }
-
   @override
   void area() {
     print("area of circle is 10");
@@ -88,5 +47,4 @@ void main() {
   Circle c = new Circle();
   c.area();
   c.typeOfShape();
-  c.printShape();
 }
