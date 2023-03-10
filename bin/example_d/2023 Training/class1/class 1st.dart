@@ -3,8 +3,8 @@
 
 2. variable name can not start with number
 
-var name = "rame"; //this is right variable name
-var 1name = "rame"; //this is wrong variable name
+var name = "ram"; //this is right variable name
+var 1name = "ram"; //this is wrong variable name
 */
 ///3. type of data
 
@@ -34,7 +34,7 @@ void main() {
 
 //List  -  array  (multiple value)
 // void main() {
-//   List name = [1, 2, 3, "Ram", "Shyam", "Deepak"];
+//   List name = [1, 2, 3, "Ram", "Anu", "Dip"];
 //   print(name);
 // }
 

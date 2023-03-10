@@ -1,22 +1,15 @@
-// 2.    Abstract _class———-
-
+// Abstract _class———-
 // Abstract class :This class can contain one or more than abstract method (those method without body/implementation)
-
 // abstract class can or cannot contain abstract method but if abstract method is present in any class that definitely that class is abstract
-
 // Very imp: you cannot make object of abstract class
-
 // any class extending abstract class should give the body of abstract method define in parent class
 // Why abstract class
-
-// abstract Parentcompany()
+// abstract ParentCompany()
 // {
 // method 1 { with body }
-
 // abstract method 2 automatic gear() -without body
 // }
-
-// childcompany extend parentcompany()
+// childCompany extend ParentCompany()
 // { method1 { with body}
 // method 2 automatic gear () { with body}
 // }
