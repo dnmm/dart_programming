@@ -1,16 +1,21 @@
 class Car {
-  void printData() {
+  void printDataCar() {
     print("i am general car");
   }
 }
 
 class Honda implements Car {
-  void printData() {
+  void printDataHonda() {
     print("i am honda car");
+  }
+
+  void printDataCar() {
+    print("i am general car");
   }
 }
 
 void main() {
-  Honda d = new Honda();
-  d.printData();
+  Honda c = new Honda();
+  c.printDataHonda();
+  c.printDataCar();
 }

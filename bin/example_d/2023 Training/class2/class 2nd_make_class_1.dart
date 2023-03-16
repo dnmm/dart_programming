@@ -13,7 +13,7 @@ Behavior: it represent behavior of object
 void main() {
   Employee a = new Employee();
   a.setName();
-  a.work();
+  // a.work();
   a.updateAge();
   a.updateSalary();
   a.printEmployeeDetails();

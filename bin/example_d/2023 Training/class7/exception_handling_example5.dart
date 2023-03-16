@@ -1,0 +1,1 @@
+//make example sum of 2 number less then 50
