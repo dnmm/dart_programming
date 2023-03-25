@@ -1,10 +1,11 @@
 //make example sum of 2 number less then 50
 
+// ignore_for_file: unused_element
+
 void main() {
   try {
     int a = 10, b = 12, sum = 0;
     sum = a + b;
-
     find_sum(sum);
   } catch (e) {
     print("you are under age");
@@ -21,7 +22,7 @@ void find_sum(int sum) {
     int b = 23;
     var c = a + b;
     try {
-      enter_num(50);
+      //ß   enter_num(50);
     } catch (e) {
       print("$c");
     }
