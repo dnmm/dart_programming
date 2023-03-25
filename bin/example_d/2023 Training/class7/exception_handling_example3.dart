@@ -13,6 +13,6 @@ void main() {
     }
     print(sum * 2);
   } catch (e) {
-    print("the string you entered tempered");
+    print("the string you entered tempered $e");
   }
 }
