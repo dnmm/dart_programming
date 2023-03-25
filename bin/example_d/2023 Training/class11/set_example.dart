@@ -1,5 +1,3 @@
-import 'dart:io';
-
 void main() {
 //[1,2,2,2,3,3,3,4,4,5,6]
 //set is an unordered collection of item that contains

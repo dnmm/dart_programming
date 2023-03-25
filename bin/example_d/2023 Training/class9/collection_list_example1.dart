@@ -1,6 +1,8 @@
 //collection is library in dart , that provides various predefined classes like
 //List , Set, Map , Queue
 
+// ignore_for_file: unused_local_variable
+
 void main() {
   List<String> car = ["honda", "maruti", "bmw"];
 

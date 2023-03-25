@@ -1,3 +1,5 @@
+// ignore_for_file: unused_local_variable
+
 main() {
   int x = 99;
   int y = 0;
