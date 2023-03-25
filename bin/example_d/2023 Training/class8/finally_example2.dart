@@ -6,8 +6,8 @@ void main() {
   int z = 0;
 
   try {
-    z = x ~/ y;
-    z = z * 2;
+    z = x ~/
+        y; //  ~/ (truncating division operator ~/ to get an integer result from division operation)     z = z * 2;
     print("z=$z");
   } catch (e) {
     print("can't divide by zero");
