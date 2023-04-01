@@ -1,7 +1,6 @@
 //Hash Map contains key - value pairs like map , A hashmap is an unordered
 //collection of key- value pairs
 import 'dart:collection';
-import 'dart:io';
 
 void main() {
   var map = HashMap<String, int>();

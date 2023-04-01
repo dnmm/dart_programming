@@ -8,4 +8,8 @@ void main() {
   var x = {1: 'hhu', 'shape': 'circle', 'shape': 'rectangle', 'animal': 'dog'};
 
   x.forEach((k, v) => print("key=$k : value= $v"));
+
+  x.forEach((k, v) {
+    print('key = $k: value = $v');
+  });
 }
