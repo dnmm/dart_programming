@@ -1,15 +1,15 @@
 void main() {
   print("Hello");
-  String name = yourname();
-  int age = getage();
+  String name = yourName();
+  int age = getAge();
   print("Your name is $name");
   print("Your age is $age");
 }
 
 //create function without return
-String yourname() => "DNM";
+String yourName() => "DNM";
 
 //create function age
-int getage() {
+int getAge() {
   return 31;
 }
