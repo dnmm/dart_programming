@@ -1,7 +1,6 @@
 abstract class Shape {
   void area();
   void typeOfShape();
-
   void printShape() {
     print("this is shape method");
   }

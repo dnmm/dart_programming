@@ -15,7 +15,7 @@ class Employee {
 }
 
 void main() {
-  Employee e = new Employee();
+  Employee e = Employee();
 
   e.joining();
 }

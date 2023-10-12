@@ -5,7 +5,7 @@ class EmployeeWithNullSafety {
 
 //create constructor
   EmployeeWithNullSafety() {
-    name = "number 1 ";
+    name = "dnm";
     age = 20;
   }
 
@@ -15,7 +15,7 @@ class EmployeeWithNullSafety {
 }
 
 void main() {
-  EmployeeWithNullSafety e = new EmployeeWithNullSafety();
+  EmployeeWithNullSafety e = EmployeeWithNullSafety();
 
   e.printEmployee();
 }

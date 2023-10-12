@@ -10,7 +10,6 @@ bool isPrime(N) {
 }
 
 void main() {
-  print('Enter N');
   var N = 13;
 
   if (isPrime(N)) {

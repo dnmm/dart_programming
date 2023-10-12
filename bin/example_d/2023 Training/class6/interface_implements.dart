@@ -1,3 +1,4 @@
+//this is required if use implements key word in class then override all method
 class Car {
   void printDataCar() {
     print("i am general car");
@@ -15,7 +16,7 @@ class Honda implements Car {
 }
 
 void main() {
-  Honda c = new Honda();
+  Honda c = Honda();
   c.printDataHonda();
   c.printDataCar();
 }

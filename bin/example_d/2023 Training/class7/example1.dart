@@ -7,7 +7,7 @@ class Sofa implements Furniture {
 }
 
 void main() {
-  Sofa a = new Sofa();
+  Sofa a = Sofa();
   print(a.setMaterial);
 }
 
@@ -20,6 +20,6 @@ void main() {
 // }
 
 // void main() {
-//   Sofa prize = new Sofa();
+//   Sofa prize = Sofa();
 //   print(prize.setMaterial);
 // }

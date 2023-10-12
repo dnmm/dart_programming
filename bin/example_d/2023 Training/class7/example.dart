@@ -7,6 +7,6 @@ class B implements Entity {
 }
 
 void main() {
-  B b = new B();
+  B b = B();
   print(b.tableName);
 }
