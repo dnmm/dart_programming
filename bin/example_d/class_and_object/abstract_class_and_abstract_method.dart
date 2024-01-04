@@ -7,7 +7,7 @@ void main() {
 abstract class Teacher {
 // Define Concstructor
 // Variable
-// Methods
+// Methodsz
   updateStudent(); // Abstract Method
 }
 

@@ -5,9 +5,9 @@ import 'dart:collection';
 void main() {
   Queue<int> number = Queue();
 
-  for (int i = 1; i <= 100; i++) number.add(i);
+  for (int i = 1; i <= 5000; i++) number.add(i);
 
-  number.removeWhere((element) => element % 3 == 0);
+  number.removeWhere((element) => element % 2 == 0);
 
   print(number);
 }
