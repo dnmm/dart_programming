@@ -6,6 +6,6 @@
 void main() {
   var num = 10;
   for (int i = 1; i <= num; i++) {
-    print('hello ${i * 2}');
+    print('hello ${i * 4}');
   }
 }

@@ -16,8 +16,6 @@ import 'dart:math'; // library
 // }
 
 // second way
-import 'dart:math'; // library
-
 void main() {
   double sqrt = 9;
 

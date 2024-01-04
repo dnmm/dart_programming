@@ -26,7 +26,7 @@ class Employee {
 
 //make function
   void setName() {
-    name = "hello";
+    name = "dnm";
   }
 
 //make function

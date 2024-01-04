@@ -9,7 +9,7 @@ void main() {
   print(address1);
   print(address1.runtimeType);
 
-  var address2 = {};
-  print(address2);
+  var address2 = [];
+  print(address2.isEmpty);
   print(address2.runtimeType);
 }
