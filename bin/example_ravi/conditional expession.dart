@@ -1,3 +1,5 @@
+// ignore_for_file: dead_code
+
 void main() {
   var conditionl = false;
   var rk = conditionl ? "ravikant" : "raju";

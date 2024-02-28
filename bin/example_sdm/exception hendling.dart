@@ -36,6 +36,7 @@ void main() {
   try {
     var result = 4 ~/ 0;
     print(result);
+    // ignore: deprecated_member_use
   } on IntegerDivisionByZeroException catch (e) {
     print(e);
   } finally {
