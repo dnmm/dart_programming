@@ -1,9 +1,9 @@
 void main() {
-  var rk = {'name': 'ravi', 'city': 'varansi'};
-  for (var key in rk.keys) {
+  var vk = {'name': 'Vinayak', 'city': 'Varansi'};
+  for (var key in vk.keys) {
     print(key);
   }
-  for (var key in rk.values) {
+  for (var key in vk.values) {
     print(key);
   }
 }

@@ -64,3 +64,7 @@ void
 while
 with
 yield*/
+
+void main(List<String> args) {
+int w = 10;
+}
