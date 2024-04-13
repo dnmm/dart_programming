@@ -11,7 +11,7 @@ final String greeting = 'Hello';
 // Static Constants (Class Constants)
 class Constants {
   static const int maxScore = 100;
-  static const String companyName = 'ABC Inc.';
+  static const String companyName = 'Tryeno';
 }
 
 void main() {

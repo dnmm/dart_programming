@@ -68,4 +68,22 @@ void main() {
 // Null: Represents a variable that has no value.
   int? nullableNumber = null;
   print("nullableNumber=$nullableNumber");
+
+
+ //variables :
+  final String Name = 'Alice';
+  var greeting = 'Hello';
+
+  print('$greeting, $name!');
+
+
+
+  /*void main() {
+  const String name = 'Alice';
+  var greeting = 'Hello';
+
+  print('$greeting, $name!');
+}*/
+
 }
+

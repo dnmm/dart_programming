@@ -24,3 +24,6 @@ else
 # switchcase:
 Dart Switch case statement is used to avoid the long chain of the if-else statement.
 The value of the variable compares with the multiple cases, and if a match is found, then it executes a block of statement associated with that particular case.
+
+# if-else-if statement:
+Dart if else-if statement provides the facility to check a set of test expressions and execute the different statements. It is used when we have to make a decision from more than two possibilities.

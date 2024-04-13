@@ -1,9 +1,12 @@
 //Arithmetic Operators: Perform basic mathematical operations.
-// ignore_for_file: dead_code, unused_local_variable
+
+
+// ignore_for_file: dead_code
 
 import 'w2_d1_constants.dart';
 
 void main() {
+  // Arithmetic Operators
   int A = 10;
   int B = 5;
 
