@@ -3,8 +3,6 @@
 
 // ignore_for_file: dead_code
 
-import 'w2_d1_constants.dart';
-
 void main() {
   // Arithmetic Operators
   int A = 10;
@@ -35,7 +33,7 @@ void main() {
   n1 %= n2;
   print("n1%=n2 = ${n1}");
 
-//Comparision operators
+//Comparison operators
   var a = 50;
   var b = 35;
   print(a > b);
@@ -48,25 +46,14 @@ void main() {
 //Logical operators
 //(&&)(Logical AND)
 
-  void main() {
-    bool isCold = true;
-    bool isSunny = true;
-
-    if (isCold && isSunny) {
-      print("It's a cold and sunny day!");
-    } else {
-      print("It's not both cold and sunny.");
-    }
-  }
-
 //||(Logical OR):
-  bool isRainfalling = true;
+  bool isRainFalling = true;
   bool isSnowing = false;
 
-  if (isRainfalling || isSnowing) {
-    print("It's either rainfalling or snowing.");
+  if (isRainFalling || isSnowing) {
+    print("It's either rainFalling or snowing.");
   } else {
-    print("It's neither rainfalling nor snowing.");
+    print("It's neither rainFalling nor snowing.");
 
 //!(Logical NOT):
     bool haveMoney = false;
@@ -86,12 +73,12 @@ void main() {
   print(val);
 
   //Null Aware Operators
-  var Myfirstname;
-  var Mynicname = ' Geet';
-  var Fullname = Myfirstname ?? Mynicname;
-  print(Fullname);
+  var MyFirstName;
+  var MyNickName = ' Get';
+  var FullName = MyFirstName ?? MyNickName;
+  print(FullName);
 
-//Casecode notation
+//Cascade notation
 
   List<int> numbers = [1, 2, 3, 4];
   numbers
@@ -119,7 +106,6 @@ void main() {
   final int an = 10;
   final double pi = 3.14159;
   final String greeting = 'Hello';
-  
 
 //compile time cons
   const int k = 5;
@@ -130,8 +116,4 @@ void main() {
 //class Constants {
   //static const int maxScore = 100;
   //static const String appName = 'MyApp';
-
-
-
-
 }

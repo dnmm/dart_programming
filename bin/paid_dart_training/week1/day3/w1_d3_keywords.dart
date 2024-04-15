@@ -66,5 +66,6 @@ with
 yield*/
 
 void main(List<String> args) {
-int w = 10;
+  int w = 10;
+  print(w);
 }
