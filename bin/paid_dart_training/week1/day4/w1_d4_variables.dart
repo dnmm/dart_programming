@@ -69,14 +69,11 @@ void main() {
   int? nullableNumber = null;
   print("nullableNumber=$nullableNumber");
 
-
- //variables :
+  //variables :
   final String Name = 'Alice';
   var greeting = 'Hello';
 
   print('$greeting, $name!');
-
-
 
   /*void main() {
   const String name = 'Alice';
@@ -84,6 +81,4 @@ void main() {
 
   print('$greeting, $name!');
 }*/
-
 }
-

@@ -1,4 +1,6 @@
-# Dart Installation
+# 1. SignUp Github account
+# 2. Setup on vs code with github project
+
 # Dart Installation
 
 
